@@ -53,7 +53,7 @@ class _ProfilePageState extends State<ProfilePage> {
             ),
             SizedBox(height: 10.0),
             Text(
-              'Nilesh Ghavate',
+              'Kevin Geejo',
               style: TextStyle(
                 color: Colors.blue[200],
                 fontWeight: FontWeight.bold,
@@ -89,7 +89,7 @@ class _ProfilePageState extends State<ProfilePage> {
             ),
             SizedBox(height: 10.0),
             Text(
-              '9594813901',
+              '9947703156',
               style: TextStyle(
                 color: Colors.blue[200],
                 fontWeight: FontWeight.bold,
@@ -107,7 +107,7 @@ class _ProfilePageState extends State<ProfilePage> {
                 ),
                 SizedBox(width: 10.0),
                 Text(
-                  'nilesh@dbit.in',
+                  'kevingeejo02@gmail.com',
                   style: TextStyle(
                     color: Colors.grey[400],
                     fontSize: 18.0,
